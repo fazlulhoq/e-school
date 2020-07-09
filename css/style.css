@@ -1,3 +1,130 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+p{
+    color: #666;
+}
+
+.head-section{
+    background-color: #F0FFF0;
+}
+
+.main-logo{
+    width: 200px;
+    height: 58px;
+}
+
+.head-section li{
+    margin-left: 30px;
+}
+
+.sign-in-button{
+    padding: 10px 30px;
+}
+
+.banner{
+    padding: 50px 30px
+}
+.banner h1{
+    font-size: 60px;
+}
+
+.school-info{
+    margin: 50px 0;
+}
+
+.school-info img{
+    height: 85px;
+    margin-bottom: 30px;
+}
+
+.box-content{
+    background-color: #F0FFF0;
+    text-align: center;
+    border-radius: 10px;
+    padding: 50px 30px;
+    transition: .5s;
+}
+
+.box-content:hover{
+    background-color: #fff;
+    box-shadow: 0px 0px 23px -6px rgba(0, 0, 0, 0.75);
+    
+}
+
+
+.course{
+    margin-bottom: 90px;
+}
+.course h2 {
+    margin: 60px 0;
+}
+.card{
+    padding: 20px;
+    border: none;
+    box-shadow: 5px 7px 10px #666;
+    border-radius: 10px;
+}
+
+.card-footer img{
+    width: 20px;
+    height: 20px;
+}
+
+.card-footer{
+    border: none;
+    background-color: #fff;
+}
+
+
+.testimonial .container{
+    margin: 100px 0;
+}
+.testimonial h2{
+    margin-bottom: 30px;
+}
+.testimonial p{
+    padding-top: 10px;
+}
+
+.contact{
+    height: 300px;
+    background-color: #F0FFF0;
+    margin-bottom: 70px;
+}
+
+.contact input{
+    margin: 20px 0;
+}
+
+footer{
+    background-color: #282531;
+}
+
+footer .container{
+    padding: 70px 70px 30px 70px;
+}
+
+footer ul li{
+    padding-bottom: 10px;
+}
+footer ul li a{
+    color: thistle;
+    
+}
+
+footer li a:hover{
+    text-decoration: none;
+    color: #666;
+}
+
+footer small a{
+    color: rgb(20, 163, 220);
+}
+
+footer small a:hover{
+    font-size: 14px;
+    text-decoration: none;
+    color: skyblue;
+}
