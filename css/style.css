@@ -107,7 +107,7 @@ footer .container{
 }
 
 footer ul li{
-    padding-bottom: 10px;
+    padding-bottom: 15px;
 }
 footer ul li a{
     color: thistle;
@@ -119,6 +119,9 @@ footer li a:hover{
     color: #666;
 }
 
+.coryright-content{
+    padding-top: 80px;
+}
 footer small a{
     color: rgb(20, 163, 220);
 }
